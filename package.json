@@ -1,0 +1,23 @@
+{
+  "name": "doc-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oblanao/watson_splitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oblanao/watson_splitter/issues"
+  },
+  "homepage": "https://github.com/oblanao/watson_splitter#readme",
+  "dependencies": {
+    "pdf-parse": "^1.0.8",
+    "word-extractor": "^0.1.4"
+  }
+}
